@@ -456,10 +456,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     textclassifier.bundle1
 
-# Touch
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.oneplus_msmnile
-
 # tri-state key
 PRODUCT_PACKAGES += \
     KeyHandler \
